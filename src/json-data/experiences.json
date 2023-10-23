@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "company": "Kimley-Horn and Associates",
+    "role": "Utilities Intern",
+    "dates": "May 2023 - July 2023",
+    "desc": [
+      "Attended client meetings, design presentations, site visits, and performed fire hydrant tests for current projects.",
+      "Drafted permit requests, permit renewals, Capacity Analysis Reports, and Operation and Maintenance Performance Reports for water treatment and water reclaim facilities.",
+      "Revised shop drawings, AutoCAD models, GIS models, and aided in Lift Stations pump sizing and selection using Sewer Gems."
+    ],
+    "img": "assets/experiences/KHA.png"
+  },
+  {
+    "id": 2,
+    "company": "Accent Solutions",
+    "role": "Engineering Intern",
+    "desc": [
+      "Upgraded message validation tool using Python for use with RabbitMQ message broker to validate the contents of 100+ messages per minute and detect any anomalies",
+      "Automated HTML documentation generation from JSON Schema files using Python and Bash scripts, and updated them on a local webpage I designed to enhance employee productivity"
+    ],
+    "dates": "May 2022 - July 2022",
+    "img": "assets/experiences/Accent.png"
+  },
+  {
+    "id": 3,
+    "company": "ICAI Comillas Pontifical University",
+    "role": "Research Aid",
+    "desc": [
+      "Optimized the use of transfer learning and neural networks for a real-time object detection machine",
+      "Created Python scripts using the YOLOv5 object detection models that learned to identify Lego pieces in real-time based on their characteristics of color, shape, and size in Google Colab with above 85% accuracy."
+    ],
+    "dates": "January 2023-April 2023",
+    "img": "assets/experiences/comillas.png"
+  }
+]
